@@ -1,2 +1,2 @@
 # MisionOnboarding_Katas
-En este repositorio se encuentras las Katas dejadas para la mision OnBoarding por la sherpa Fer.
+En este repositorio se encuentras las Katas dejadas para la mision OnBoarding por la Sherpa Fer.
